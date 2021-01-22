@@ -3,7 +3,7 @@
 | [Documentation](https://github.com/LRG-Champions/template/wiki) | [Deployment Guide](https://github.com/LRG-Champions/template/wiki/Deployment-Guide) | [Solution Overview](https://github.com/LRG-Champions/template/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
-Staffs Emergency Contacts Application is a PowerApp linked to a sharepoint list.  This allows officers to contact other officers via the smartphone application.
+Staffs Emergency Contacts Application is a PowerApp linked to a SharePoint list.  This allows officers to contact other officers via the smartphone PowerApp.
 
 ### Key features
 * **Contact fellow officers:** Contact fellow Emergency contact officers by phone or text
