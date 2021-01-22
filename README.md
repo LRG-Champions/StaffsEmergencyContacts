@@ -19,7 +19,7 @@ When you're ready to try out Staffs Emergency Contacts Application, or to use it
 
 ## Feedback
 
-Please report bugs and other code issues [here](https://github.com/LRG-Champions/template/issues).
+Please report bugs and other code issues [here](https://github.com/LRG-Champions/StaffsEmergencyContacts/issues).
 
 
 ## Contributing
