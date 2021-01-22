@@ -6,8 +6,8 @@
 Staffs Emergency Contacts Application is a PowerApp linked to a sharepoint list.  This allows officers to contact other officers via the smartphone application.
 
 ### Key features
-* **App Feature A:** App can do xyz
-* **App Feature B:** App can do abc
+* **Contact fellow officers:** Contact fellow Emergency contact officers by phone or text
+* **Self-service update:** Update your own contact details via self-service
 
 ## Get started
 
