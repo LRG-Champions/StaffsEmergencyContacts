@@ -1,4 +1,4 @@
-# App X Template
+# Staffs Emergency Contacts Application
 
 | [Documentation](https://github.com/LRG-Champions/template/wiki) | [Deployment Guide](https://github.com/LRG-Champions/template/wiki/Deployment-Guide) | [Solution Overview](https://github.com/LRG-Champions/template/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
