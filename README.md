@@ -15,7 +15,7 @@ Staffs Emergency Contacts Application is a PowerApp linked to a sharepoint list.
 
 Begin with the [Solution Overview](https://github.com/LRG-Champions/template/wiki/Solution-Overview) to read about what the app does and how it works.
 
-When you're ready to try out App X, or to use it in your own organization, follow the steps in the [Deployment Guide](https://github.com/LRG-Champions/template/wiki/Deployment-Guide).
+When you're ready to try out Staffs Emergency Contacts Application, or to use it in your own organization, follow the steps in the [Deployment Guide](https://github.com/LRG-Champions/template/wiki/Deployment-Guide).
 
 ## Feedback
 
