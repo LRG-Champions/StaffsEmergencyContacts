@@ -14,7 +14,7 @@ The new application has been developed using the Office 365 PowerApps software, 
 In Staffordshire the application is deployed within the secure framework of the InTune security software. Access to the application is also controlled via separate Active Directory groups for both the mobile device interface and the data in the Sharepoint list. At no point is personal data held or recorded on a mobile device.  InTune also prevents data from being copied and pasted between applications on the local device.
 
 ### Key features
-* **Contact fellow officers:** Contact fellow Emergency contact officers by voice call or text
+* **Contact fellow officers:** Contact fellow Emergency contact officers and emergency contact support desk by voice call or text
 * **Self-service update:** Update your own contact details via self-service
 
 ## Get started
